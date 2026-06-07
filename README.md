@@ -4,7 +4,9 @@
 Alicia Sáenz de Zaítigui Colina
 
 **Tutor**: Francisco Javier Blanco Romero
+
 **Universidad**: Universidad Carlos III de Madrid
+
 **Curso**: 2025-2026
 
 ## Contenido del repositorio
@@ -25,7 +27,7 @@ El proyecto se ha creado utilizando Python 3.12.9. Para ejecutarlo, se necesitan
 Pueden instalarse con:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt'
 
 ## Metodología
 
