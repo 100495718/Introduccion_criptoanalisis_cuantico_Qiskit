@@ -27,7 +27,8 @@ El proyecto se ha creado utilizando Python 3.12.9. Para ejecutarlo, se necesitan
 Pueden instalarse con:
 
 ```bash
-pip install -r requirements.txt'
+pip install -r requirements.txt
+```
 
 ## Metodología
 
@@ -39,3 +40,7 @@ pip install -r requirements.txt'
 
 ## Referencias
 
+- [Qiskit](https://www.ibm.com/quantum/qiskit)
+- [Numpy](https://numpy.org/doc/2.4/)
+- [Matplotlib](https://matplotlib.org/3.10.0/)
+- [Notebook](https://jupyter-notebook.readthedocs.io/en/v7.3.2/user-documentation.html)
