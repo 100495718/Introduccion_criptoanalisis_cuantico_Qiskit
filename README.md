@@ -1,7 +1,6 @@
 # Introducción al criptoanálisis cuántico con Qiskit
 
-## Autor
-Alicia Sáenz de Zaítigui Colina
+**Autor**: Alicia Sáenz de Zaítigui Colina
 
 **Tutor**: Francisco Javier Blanco Romero
 
