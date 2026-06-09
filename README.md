@@ -6,7 +6,7 @@
 ![Qiskit](https://img.shields.io/badge/IBM_Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
 ![Mathplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)
 
-Este proyecto es una introducción al criptoanálisis cuántico empleando Qiskit, aplicando el agloritmo de Grover sobre instancias pequeñas del problema LWE utilizando un oráculo simplificado. Mediante simulaciones, se analizan las iteraciones necesarias para que el algoritmo encuentre la solución con alta probabilidad.
+Este proyecto es una introducción al criptoanálisis cuántico empleando Qiskit, aplicando el algoritmo de Grover sobre instancias pequeñas del problema LWE utilizando un oráculo simplificado. Mediante simulaciones, se analizan las iteraciones necesarias para que el algoritmo encuentre la solución con alta probabilidad.
 
 **Autor**: Alicia Sáenz de Zaítigui Colina
 
