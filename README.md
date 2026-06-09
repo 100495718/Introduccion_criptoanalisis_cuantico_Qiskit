@@ -14,7 +14,7 @@
 
 **Curso**: 2025-2026
 
-## Contenido del repositorio
+## 📂 Contenido del repositorio
 
 - `grover_lwe.ipynb`: notebook con la implementación del experimento.
 - `README.md`
