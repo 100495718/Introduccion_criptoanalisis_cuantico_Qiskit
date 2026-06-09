@@ -20,7 +20,7 @@
 - `README.md`
 - `requirements.txt`: dependencias del proyecto.
 
-## Requisitos
+## ⚙️ Requisitos
 
 El proyecto se ha creado utilizando Python 3.12.9. Para ejecutarlo, se necesitan las siguientes dependencias: 
 
@@ -48,7 +48,7 @@ Los experimentos siguen los siguientes pasos:
 7. Simulación 
 8. Comparación del número de iteraciones óptimo con los resultados experimentales obtenidos
 
-## Ejecución
+## 💻 Ejecución
 
 1. Abrir `grover_lwe.ipynb`
 2. Ejecutar todas las celdas del notebook en orden
@@ -65,7 +65,7 @@ que se ajustan a los resultados teóricos esperados.
 
 Este trabajo muestra cómo representar el problema de búsqueda LWE y cómo implementar un oráculo simplificado para resolverlo con el algoritmo de Grover. Se trata de una prueba de concepto simplificada para estudiar las iteraciones requeridas por el algoritmo de Grover para obtener la solución con la máxima probabilidad posible
 
-## Referencias
+## 📖 Referencias
 
 - [Qiskit](https://www.ibm.com/quantum/qiskit)
 - [Numpy](https://numpy.org/doc/2.4/)
