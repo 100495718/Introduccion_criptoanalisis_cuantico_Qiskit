@@ -1,5 +1,11 @@
 # Introducción al criptoanálisis cuántico con Qiskit
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Numpy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Qiskit](https://img.shields.io/badge/IBM_Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
+![Mathplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)
+
 **Autor**: Alicia Sáenz de Zaítigui Colina
 
 **Tutor**: Francisco Javier Blanco Romero
