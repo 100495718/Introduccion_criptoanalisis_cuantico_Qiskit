@@ -35,7 +35,7 @@ Pueden instalarse con:
 pip install -r requirements.txt
 ```
 
-## Metodología
+## 📝 Metodología
 
 Los experimentos siguen los siguientes pasos:
 
@@ -56,12 +56,12 @@ Los experimentos siguen los siguientes pasos:
 4. Observar los circuitos e histogramas de probabilidades obtenidos para los diferentes casos de prueba
 5. Observar los resultados en la gráfica comparativa
 
-## Resultados
+## 📊 Resultados
 
 En los casos de prueba analizados, el algoritmo de Grover permite encontrar la solución en un número de iteraciones 
 que se ajustan a los resultados teóricos esperados.
 
-## Conclusión
+## 💡Conclusión
 
 Este trabajo muestra cómo representar el problema de búsqueda LWE y cómo implementar un oráculo simplificado para resolverlo con el algoritmo de Grover. Se trata de una prueba de concepto simplificada para estudiar las iteraciones requeridas por el algoritmo de Grover para obtener la solución con la máxima probabilidad posible
 
