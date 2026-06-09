@@ -37,11 +37,33 @@ pip install -r requirements.txt
 
 ## Metodología
 
+Los experimentos siguen los siguientes pasos:
+
+1. Generación de una instancia LWE pequeña
+2. Cálculo del residuo
+3. Evaluación del predicado oracular
+4. Construcción del oráculo de fase
+5. Construcción del operador de Grover
+6. Construcción del circuito completo
+7. Simulación 
+8. Comparación del número de iteraciones óptimo con los resultados experimentales obtenidos
+
 ## Ejecución
+
+1. Abrir `grover_lwe.ipynb`
+2. Ejecutar todas las celdas del notebook en orden
+3. Comprobar el residuo y la condición que debe de cumplir
+4. Observar los circuitos e histogramas de probabilidades obtenidos para los diferentes casos de prueba
+5. Observar los resultados en la gráfica comparativa
 
 ## Resultados
 
+En los casos de prueba analizados, el algoritmo de Grover permite encontrar la solución en un número de iteraciones 
+que se ajustan a los resultados teóricos esperados.
+
 ## Conclusión
+
+Este trabajo muestra cómo representar el problema de búsqueda LWE y cómo implementar un oráculo simplificado para resolverlo con el algoritmo de Grover. Se trata de una prueba de concepto simplificada para estudiar las iteraciones requeridas por el algoritmo de Grover para obtener la solución con la máxima probabilidad posible
 
 ## Referencias
 
