@@ -1,4 +1,4 @@
-# Introducción al criptoanálisis cuántico con Qiskit
+# Introducción al Criptoanálisis Cuántico con Qiskit: verificación experimental del algoritmo de Grover sobre LWE
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
